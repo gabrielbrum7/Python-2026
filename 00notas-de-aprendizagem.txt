@@ -16,3 +16,9 @@ Diferenciais
 04. Com float é o mesmo do 03.
 
 05. Para concatenar um float e string, use o f"{var_float}string" .
+
+06.Foi concatenada uma variável de float com string no f"{var_float}{var_string}"
+
+07. Se parece com o 06.
+
+08. Inclusão de texo antes das variáveis f"texto{var_float}{var_string}"

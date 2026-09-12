@@ -24,3 +24,5 @@ Diferenciais
 08. Inclusão de texo antes das variáveis f"texto{var_float}{var_string}"
 
 09. O f-string, fica assim: f"{var:.2f}C°" . Isso para colocar apenas dois zeros depois do float.
+
+Atualizado em 12.09.2026
